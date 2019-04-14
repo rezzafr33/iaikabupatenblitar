@@ -9,6 +9,12 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    {
+      resolve: 'gatsby-plugin-google-fonts',
+      options: {
+        fonts: ['bitter:400,400i,700', 'lora:400,400i,700,700i'],
+      },
+    },
     'gatsby-plugin-styled-components',
     'gatsby-plugin-sharp',
     {
