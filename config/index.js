@@ -14,8 +14,8 @@ module.exports = {
   siteLogo: '/social/logo.png', // Image for schemaORGJSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@minimal', // Twitter Username - Optional
-  ogSiteName: 'minimal', // Facebook Site Name - Optional
+  userTwitter: '@iaikabupatenblitar', // Twitter Username - Optional
+  ogSiteName: 'iaikabupatenblitar', // Facebook Site Name - Optional
   ogLanguage: 'id_ID', // Facebook Language
   googleAnalyticsID: 'UA-47519312-6',
 
